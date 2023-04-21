@@ -1,6 +1,6 @@
 import React from "react";
-import Article from './Article'
-import Header from './Header'
+import Article from './Article.js'
+import Header from './Header.js'
 
 function App() {
   return <div className="App">
